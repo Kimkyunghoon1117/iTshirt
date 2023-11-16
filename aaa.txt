@@ -1,0 +1,3 @@
+main branch <--- 기본적으로 제공하는 브랜치
+head : 현재 working directory를 가리키는 참조
+branch : 커밋을 가리키는 새로운 참조(커밋간의 이동을 쉽게)
